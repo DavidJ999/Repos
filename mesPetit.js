@@ -1,4 +1,4 @@
-
+//comentari projecte2
 function mesPetit() {
     i = 0, llista = new Array, min = 0,max=0;
     while (10 > i++) {
