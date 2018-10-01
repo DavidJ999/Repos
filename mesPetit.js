@@ -11,6 +11,7 @@ function mesPetit() {
         }
 
     }
+//comentari projecte1
 
     for (let i = 0; i < llista.length; i++){
 	if (llista[i] > max){
